@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/wwerges/bt/braintree-ios/BraintreePayPal/Public/BTPayPalLineItem.h",
+      "line": 5,
+      "symbol": "BTPayPalLineItem",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/wwerges/bt/braintree-ios/BraintreePayPal/Public/BTPayPalLineItem.h",
+      "line": 77,
+      "symbol": "BTPayPalLineItem.-requestParameters",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/wwerges/bt/braintree-ios"
+}
